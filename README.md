@@ -1,1 +1,1 @@
-# sublime
+# sync scripts
