@@ -1,1 +1,1 @@
-# sync scripts
+# scripts
